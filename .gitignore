@@ -1,0 +1,3 @@
+*.class
+/dist
+/.DS_Store
