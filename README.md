@@ -22,6 +22,6 @@ When you beautify, it also removes any leading or trailing concatenation charact
 - Package your classes into a .jar file. `jar cfe TwigBeautify.jar TwigBeautify *.class`.
 
 **Run .jar**
-- Run the compuled .class files with `java TwigBeautify` in the build directory. This can be used to test the programme.
+- Run the compiled .class files with `java TwigBeautify` in the build directory. This can be used to test the programme.
 - Run the packaged .jar file with `java -jar TwigBeautify.jar` in the build directory. (Can be moved to anywhere else now.)
 - Run from your file exploerer by double clicking on the .jar file. This should run the file using the jre. 
