@@ -1,4 +1,4 @@
-# twig-beautify
+# twig-beautify-java
 
 This is a formatter for twig code.
 
